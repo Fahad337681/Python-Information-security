@@ -21,3 +21,8 @@ print(list)
 list.pop()
 print("List after popping the last element")
 print(list)
+
+print("\n List after popping with specific index")
+list.pop(3)
+print(list)
+
